@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.AssemblyInfo.cs
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Github\smexengine\bin\Debug\net6.0\smexengine.exe
+C:\Users\marco\Documents\Github\smexengine\bin\Debug\net6.0\smexengine.deps.json
+C:\Users\marco\Documents\Github\smexengine\bin\Debug\net6.0\smexengine.runtimeconfig.json
+C:\Users\marco\Documents\Github\smexengine\bin\Debug\net6.0\smexengine.dll
+C:\Users\marco\Documents\Github\smexengine\bin\Debug\net6.0\smexengine.pdb
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.dll
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\refint\smexengine.dll
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.pdb
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\smexengine.genruntimeconfig.cache
+C:\Users\marco\Documents\Github\smexengine\obj\Debug\net6.0\ref\smexengine.dll
