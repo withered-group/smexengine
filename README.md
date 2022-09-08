@@ -1,1 +1,3 @@
-<h1 style="text-align: center">SMEXENGINE</h1>
+<div style="text-align: center">
+  <h1>SMEX Engine</h1>
+</div>
