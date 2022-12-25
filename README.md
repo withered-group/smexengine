@@ -8,3 +8,6 @@
 Just don't.
 <h2>Why?</h2>
 Because Unity's Plastic SCM is shit, so we made a game engine small enough to be used with GitHub.
+
+
+# Don't use withered, it leaks passwords
